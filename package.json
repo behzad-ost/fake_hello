@@ -3,7 +3,7 @@
   "version": "1.3.0",
   "description": "Hello BehX!",
   "main": "index.js",
-  "repository": "https://github.com/behzad-ost/hello_behx",
+  "repository": "https://github.com/behzad-ost/fake_hello",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
